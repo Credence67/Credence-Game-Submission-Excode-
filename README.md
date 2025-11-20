@@ -14,4 +14,5 @@ I can only provide the .py file. You will have to run it locally by typing [ pyt
 For Mac:
 Double-click the Mac Unix Executable file [EXPLORMAN_GAME_(MAC)]
 
-Instructions will be as follows in the README.txt in the zip file in releases.
+Instructions will be as follows in the README.txt in the zip file.
+Download the zip file by downloading the 'raw' file under EXPLORMAN_GAME_(V1.0).zip
